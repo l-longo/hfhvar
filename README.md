@@ -1,9 +1,11 @@
-```python
-pip install hfhvar
-
 ## Quick start
 
-After installation, you can estimate an HF-HVAR and plot impulse responses in just a few lines:
+```python
+pip install hfhvar
+```
+
+After installation, you can estimate an HF-HVAR and plot impulse responses in just a few lines. This is the application for the identification of uncertainty shocks (Section of the paper).
+
 
 ```python
 import pandas as pd
